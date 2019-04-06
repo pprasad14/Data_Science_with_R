@@ -1,0 +1,1 @@
+# theory session on Standard deviation. See pictures

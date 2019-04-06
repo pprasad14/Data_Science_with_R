@@ -1,0 +1,62 @@
+cs229 stanfords introductory class
+cs231n convolutional NN
+
+
+standardization vs normalization
+conditional probability
+bayers theorem examples
+naive bayes
+significance level
+deg of freedom
+ssm(r?),sse,sst
+chi square test
+pearson's correlation
+(meaning of data normally distributed)
+what is ANOVA?
+regression?
+goo.gl/JpJkkU
+backward and forward elimination 
+VIF score: multi collinearity
+odds and odds ratio
+logistic regression
+couponduniya, gopaisa.com
+accuracy paradox
+CAP Curve vs ROC Curve
+feature scaling
+null and residual deviance
+GermanCredit, diabetes (decisiontree)
+https://archive.ics.uci.edu/ml/machine-learning-databases/00222/
+
+https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+bank loan or not: logistic and linearreg
+credit: log and regre tree 
+
+ensemble learning
+entropy in ML
+information gain
+bias variance tradeoff
+
+how to decide if feature scaling needed
+should we scale when categorical data present?
+should we change unknowns to max?
+what to do when unknown is very large compared to other values?
+how to do a linear regr. for bank.csv? no continous values as 'Y'
+
+sportszne@embassyservices.in
+
+SVMs
+ kernel trick
+cost and gamma parameter in SVM
+
+hw, bank additonal dataset. dont take big cost reduce cost
+k fold cross validation
+boosting, xgboost?
+Apriori, market basket
+support confidence and lift (Apriori)
+Eclat algo
+
+neural nets, deep learining, shallow learning
+gradient descent
+stochastic grad. descent
+H2o.flow
